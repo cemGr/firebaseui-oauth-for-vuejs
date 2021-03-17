@@ -8,13 +8,13 @@ Vue.config.productionTip = false
 
 
 const firebaseConfig = {
-  apiKey: "*******",
-  authDomain: "*******",
-  databaseURL: "*******",
-  projectId: "*******",
-  storageBucket: "*******",
-  messagingSenderId: "*******",
-  appId: ** ** ** * ",
+  apiKey: "AIzaSyAqJXnnvA9eIH4JavYkHssvJ7240Ka_h6A",
+      authDomain: "wecan-t-waet.firebaseapp.com",
+      projectId: "wecan-t-waet",
+      storageBucket: "wecan-t-waet.appspot.com",
+      messagingSenderId: "494635076040",
+      appId: "1:494635076040:web:22b8bbf800a1e7dbf098fd",
+      measurementId: "G-S30Z5RM8S3"
 };
 firebase.initializeApp(firebaseConfig);
 
